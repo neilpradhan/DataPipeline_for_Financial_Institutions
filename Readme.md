@@ -13,23 +13,23 @@ This document provides a step-by-step guide to setting up the environment and ex
 
 1. Open your terminal or command prompt.
 2. Navigate to your project directory.
-3. Create a virtual environment named `advisense` by running the following command:
+3. Create a virtual environment named `dataproc_env` by running the following command:
 
     ```bash
-    python -m venv advisense
+    python -m venv dataproc_env
     ```
 
 4. Activate the virtual environment:
     - On Windows:
 
         ```bash
-        .\advisense\Scripts\activate
+        .\dataproc_env\Scripts\activate
         ```
 
     - On macOS/Linux:
 
         ```bash
-        source advisense/bin/activate
+        source dataproc_env/bin/activate
         ```
 
 ### Step 2: Install Dependencies
